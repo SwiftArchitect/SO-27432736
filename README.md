@@ -6,7 +6,7 @@
 
 ### Stack Overflow Question 27432736
 
-Xcode project & source code related to [Swift 3](http://stackoverflow.com/a/27435318/218152) answer.
+Xcode project & source code related to [Swift 3](https://stackoverflow.com/questions/27432736/how-to-create-an-ibinspectable-of-type-enum/27435318#27435318) answer.
 
 ---
 
@@ -19,6 +19,6 @@ Xcode project & source code related to [Swift 3](http://stackoverflow.com/a/2743
 
 **References:**
 
-- [SO-27432736](http://stackoverflow.com/questions/27432736/how-to-create-an-ibinspectable-of-type-enum/27435318?noredirect=1#comment72883936_27435318) on Stack Overflow
+- Question [27432736](https://stackoverflow.com/questions/27432736) on Stack Overflow
 - This and other answers posted on [Swift Recipes](http://swiftarchitect.com/recipes/)
 
